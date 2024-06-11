@@ -31,7 +31,7 @@
    <p><center> Already have an account?</center><a href="#">Sign in</a>.</p>
   </div>
 
-  <h1> <center>Thankyou, Happy Learning </center> </h1>
+  <h1> <center>AYUSH GURJAR </center> </h1>
 
   
 </form>
